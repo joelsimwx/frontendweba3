@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontendweba3/static/css/main.b5414344.css",
+    "main.js": "/frontendweba3/static/js/main.cc744d09.js",
+    "static/media/homewallpaper.jpg": "/frontendweba3/static/media/homewallpaper.2a82c55c7d235576147b.jpg",
+    "index.html": "/frontendweba3/index.html",
+    "main.b5414344.css.map": "/frontendweba3/static/css/main.b5414344.css.map",
+    "main.cc744d09.js.map": "/frontendweba3/static/js/main.cc744d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5414344.css",
+    "static/js/main.cc744d09.js"
+  ]
+}
